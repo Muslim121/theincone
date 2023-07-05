@@ -1,0 +1,283 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#header{
+    width: 100%;
+    
+    text-align: center;
+    border-bottom: 4px solid silver;
+    background:#333;
+    color: #fff;
+   
+    margin-bottom: 1%;
+    float: left;
+    padding-top: 10px;
+}
+.деньги{
+    font-size: 25px;
+    float: right;
+    margin-right: 8%;
+}
+.img{
+    background-attachment: fixed;
+}
+.заработок{
+    margin-top: 40px;
+    text-align: center;
+    font-size: 17px;
+}
+.ссылки{
+    float: left;
+    margin-left: 250px;
+    margin-top: 35px;
+    color: rgb(103, 103, 255);
+}
+a:hover{
+    color: red;
+}
+.ty{
+    float: left;
+    margin-left: -155px;
+    margin-top: 100px;
+    color: rgb(103, 103, 255);
+}
+
+.c{
+    float: left;
+    margin-left: -175px;
+    margin-top: 60px;
+    color: rgb(103, 103, 255);
+}
+.e{
+  float: left;  
+  color: rgb(103, 103, 255);
+  margin-left: -120px;
+  margin-top: 140px;
+}
+.m{
+    float: left;  
+    color: rgb(103, 103, 255);
+    margin-top: -5px;
+    margin-left: -5px;
+}
+.n{
+    float: left;  
+    color: rgb(103, 103, 255);
+    margin-top: -5px;
+    margin-left: -5px;
+}
+.mn{
+    float: left;  
+  color: rgb(103, 103, 255);
+  margin-left: -120px;
+  margin-top: 170px;
+}
+.rt{
+    float: left;  
+  color: rgb(103, 103, 255);
+  margin-left: -131px;
+  margin-top: 200px;
+}
+.vr{
+    float: left;  
+    color: rgb(103, 103, 255);
+    margin-left: -243px;
+    margin-top: 230px;
+}
+.re{
+    float: left;  
+    color: rgb(103, 103, 255); 
+    margin-left: -450px;
+    margin-top: 300px;
+}
+.tr{
+    float: left;  
+    color: rgb(103, 103, 255);
+    margin-left: -243px;
+    margin-top: 260px;
+}
+.yt{
+    float: left;
+    margin-left: -340px;
+    margin-top: 340px;
+    color: rgb(103, 103, 255);
+}
+.ewe{
+    float: left;  
+    color: rgb(103, 103, 255);
+    margin-left: -250px;
+    margin-top: 380px;
+}
+.ew{
+    float: left;  
+    color: rgb(103, 103, 255);
+    margin-left: -250px;
+    margin-top: 410px;
+}
+.ety{
+    float: left;  
+    color: rgb(103, 103, 255);
+    margin-left: -250px;
+    margin-top: 440px;
+}
+.ey{
+    float: left;  
+    color: rgb(103, 103, 255);
+    margin-left: -250px;
+    margin-top: 470px;
+}
+.wq{
+    float: left;
+    margin-left: -340px;
+    margin-top: 500px;
+    color: rgb(103, 103, 255);
+}
+.rew{
+    float: left;  
+    color: rgb(103, 103, 255);
+    margin-left: -250px;
+    margin-top: 540px;
+}
+.rtt{
+    float: left;  
+    color: rgb(103, 103, 255);
+    margin-left: -250px;
+    margin-top: 570px;
+}
+.ree{
+    float: left;  
+    color: rgb(103, 103, 255);
+    margin-left: -340px;
+    margin-top: 600px;
+}
+.erer{
+    float: left;  
+    color: rgb(103, 103, 255);
+    margin-left: -340px;
+    margin-top: 640px;
+}
+.dsd{
+    float: left;  
+    color: rgb(103, 103, 255);
+    margin-left: -340px;
+    margin-top: 680px;
+}
+.dsu{
+    float: left;  
+    color: rgb(103, 103, 255);
+    margin-left: -340px;
+    margin-top: 720px;
+}
+.po{
+    margin-left: 400px;
+    margin-top: 30px;
+}
+.pos{
+    margin-left: 940px;
+    margin-top: -30px;
+}
+.iu{
+    margin-top: 800px;
+    text-align: center;
+    font-size: 17px;
+}
+.bt{
+    background-attachment: fixed;
+    margin-top: 10px;
+    float: left;
+}
+.rere{
+    font-size: 25px;
+    float: right;
+    margin-right: 100px;
+    margin-top: 0px;
+}
+#g{
+    text-align: center;
+    margin-top: 30px;
+}
+.heade{
+    width: 100%;
+    height: 60px;
+    text-align: center;
+    border-bottom: 4px solid silver;
+    background:#333;
+    color: #fff;
+    line-height: 10px;
+    margin-bottom: 20px;
+    float: left;
+    padding-top: 10px;
+    margin-top: 100px;
+}
+.pes{
+    margin-top: 5px;
+    margin-left: 100px;
+}
+.gop{
+    margin-top: 5px;
+    margin-left: 40px;
+}
+.rer{
+    font-size: 25px;
+    float: right;
+    margin-right: 330px;
+    margin-top: 5px;
+}
+.rei{
+    font-size: 25px;
+    float: right;
+    margin-right: 366px;
+    margin-top: 5px;
+}
+.xcx{
+    font-size: 25px;
+    float: right;
+    margin-top: 5px;
+    margin-right: 290px;
+}
+.zxz{
+    font-size: 25px;
+    float: right;
+    margin-top: 5px;
+    margin-right: 250px;
+}
+.tytt{
+    font-size: 25px;
+    float: right;
+    margin-top: 5px;
+    margin-right: 350px;
+}
+.asas{
+    margin-left: 70px;
+}
+.trrrr{
+    font-size: 25px;
+    float: right;
+    margin-top: 5px;
+    margin-right: 480px;
+}
+.cvc{
+    font-size: 25px;
+    float: right;
+    margin-top: 5px;
+    margin-right: 390px;
+}
+.opop{
+    font-size: 25px;
+    float: right;
+    margin-top: 5px;
+    margin-right: 250px;
+}
+.ggg{
+    font-size: 25px;
+    float: right;
+    margin-top: 5px;
+    margin-right: 200px;
+}
+.bggg{
+    font-size: 25px;
+    float: right;
+    margin-top: 5px;
+    margin-right: 200px;
+}
